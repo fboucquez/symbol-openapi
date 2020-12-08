@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  version: 0.10.8
+  version: 0.10.4
   title: Catapult REST Endpoints
   description: OpenAPI Specification of catapult-rest 2.2.0
   license:
